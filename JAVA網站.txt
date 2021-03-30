@@ -7,3 +7,4 @@ https://www.ewdna.com/2011/12/java.html                -------------Java 教學�
 
 https://blog.xuite.net/fanlucy/wretch1?st=c&p=1&w=5228462  -----------加菲貓的java程式教學區
 
+https://lingcoder.github.io/OnJava8/#/sidebar           ----------------Java 聖經
